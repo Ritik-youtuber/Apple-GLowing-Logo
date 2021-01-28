@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+.logo{
+    color: #fff;
+    font-size: 6em;
+    position: relative;
+    left: 650px;
+    top: 250px;
+    text-shadow: 0 0 50px #fff;
+}
